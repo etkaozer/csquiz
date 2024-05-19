@@ -1,0 +1,34 @@
+C:\Users\Dell\Desktop\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\net6.0-windows\Bilgi_Yarismasi.exe
+C:\Users\Dell\Desktop\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\net6.0-windows\Bilgi_Yarismasi.deps.json
+C:\Users\Dell\Desktop\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\net6.0-windows\Bilgi_Yarismasi.runtimeconfig.json
+C:\Users\Dell\Desktop\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\net6.0-windows\Bilgi_Yarismasi.dll
+C:\Users\Dell\Desktop\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\net6.0-windows\Bilgi_Yarismasi.pdb
+C:\Users\Dell\Desktop\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\net6.0-windows\Bilgi_Yarismasi.Form1.resources
+C:\Users\Dell\Desktop\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\net6.0-windows\Bilgi_Yarismasi.Properties.Resources.resources
+C:\Users\Dell\Desktop\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\net6.0-windows\Bilgi_Yarismasi.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\net6.0-windows\Bilgi_Yarismasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\net6.0-windows\Bilgi_Yarismasi.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\net6.0-windows\Bilgi_Yarismasi.AssemblyInfo.cs
+C:\Users\Dell\Desktop\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\net6.0-windows\Bilgi_Yarismasi.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\net6.0-windows\Bilgi_Yarismasi.dll
+C:\Users\Dell\Desktop\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\net6.0-windows\refint\Bilgi_Yarismasi.dll
+C:\Users\Dell\Desktop\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\net6.0-windows\Bilgi_Yarismasi.pdb
+C:\Users\Dell\Desktop\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\net6.0-windows\Bilgi_Yarismasi.genruntimeconfig.cache
+C:\Users\Dell\Desktop\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\net6.0-windows\ref\Bilgi_Yarismasi.dll
+C:\Users\Dell\Desktop\My Works\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\net6.0-windows\Bilgi_Yarismasi.exe
+C:\Users\Dell\Desktop\My Works\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\net6.0-windows\Bilgi_Yarismasi.deps.json
+C:\Users\Dell\Desktop\My Works\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\net6.0-windows\Bilgi_Yarismasi.runtimeconfig.json
+C:\Users\Dell\Desktop\My Works\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\net6.0-windows\Bilgi_Yarismasi.dll
+C:\Users\Dell\Desktop\My Works\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\net6.0-windows\Bilgi_Yarismasi.pdb
+C:\Users\Dell\Desktop\My Works\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\net6.0-windows\Bilgi_Yarismasi.Form1.resources
+C:\Users\Dell\Desktop\My Works\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\net6.0-windows\Bilgi_Yarismasi.Properties.Resources.resources
+C:\Users\Dell\Desktop\My Works\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\net6.0-windows\Bilgi_Yarismasi.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\My Works\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\net6.0-windows\Bilgi_Yarismasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\My Works\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\net6.0-windows\Bilgi_Yarismasi.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\My Works\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\net6.0-windows\Bilgi_Yarismasi.AssemblyInfo.cs
+C:\Users\Dell\Desktop\My Works\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\net6.0-windows\Bilgi_Yarismasi.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\My Works\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\net6.0-windows\Bilgi_Yarismasi.dll
+C:\Users\Dell\Desktop\My Works\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\net6.0-windows\refint\Bilgi_Yarismasi.dll
+C:\Users\Dell\Desktop\My Works\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\net6.0-windows\Bilgi_Yarismasi.pdb
+C:\Users\Dell\Desktop\My Works\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\net6.0-windows\Bilgi_Yarismasi.genruntimeconfig.cache
+C:\Users\Dell\Desktop\My Works\c# works\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\net6.0-windows\ref\Bilgi_Yarismasi.dll
